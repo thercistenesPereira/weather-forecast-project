@@ -23,7 +23,7 @@ export const getWeatherByCity = async (cityURL) => {
 
   const response = await fetch(url);
   const { location: { name, country },
-    current: { temp_c: temp, condition: { icon } } } = await response.json();
+    current: { temp_c: temp, condition: { icon, text } } } = await response.json();
 
-  return { name, country, temp, icon };
+  return { name, country, temp, icon, condition: text };
 };
