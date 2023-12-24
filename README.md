@@ -14,6 +14,28 @@ Este é um aplicativo simples de previsão do tempo, desenvolvido utilizando HTM
 1. Clone este repositório.
 ```
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:thercistenesPereira/weather-forecast-project.git
 
 ```
+
+2. Abra o arquivo index.html em seu navegador.
+
+3. Preencha o formulário de busca com o nome da cidade desejada.
+
+4. Clique no botão "Buscar" para obter informações meteorológicas da cidade.
+
+5. Clique no botão "Ver previsão" para visualizar a previsão do tempo para os próximos sete dias.
+
+6. Para fechar a janela de previsão, clique no botão "Fechar" no canto superior direito.
+
+## Estrutura do Código
+
+* **weatherAPI.js**: Arquivo que contém funções para interagir com a Watcher API e obter dados meteorológicos.
+
+* **style.css**: Arquivo CSS para estilização da interface do aplicativo.
+
+* **index.html**: Arquivo HTML que define a estrutura da página web e incorpora o script JavaScript.
+
+* **pageFunctions.js**: Arquivo contendo funções específicas para manipulação da página, como a exibição da previsão do tempo.
+
+
