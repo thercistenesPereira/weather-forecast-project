@@ -4,6 +4,8 @@
 
 Este é um aplicativo simples de previsão do tempo, desenvolvido utilizando HTML, CSS e JavaScript. O aplicativo permite que os usuários busquem informações meteorológicas de cidades específicas e visualizem a previsão para os próximos sete dias.
 
+<img src="src/imgs/iChoveuIcon.png">
+
 ## Tecnologias Utilizadas
 
 * **HTML**: Utilizado para a estruturação da página web.
