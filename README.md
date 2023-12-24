@@ -1,4 +1,7 @@
 # Weather Forecast App
+![Static Badge](https://img.shields.io/badge/thercistenes-Weather%20Forecast%20App-purple)
+
+![GitHub License](https://img.shields.io/github/license/thercistenesPereira/weather-forecast-project)
 
 Este é um aplicativo simples de previsão do tempo, desenvolvido utilizando HTML, CSS e JavaScript. O aplicativo permite que os usuários busquem informações meteorológicas de cidades específicas e visualizem a previsão para os próximos sete dias.
 
